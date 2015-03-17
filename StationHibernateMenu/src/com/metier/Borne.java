@@ -1,4 +1,4 @@
-package com.metier; 
+package com.metier; //test
 import java.util.List;
 
 import javax.persistence.*;
